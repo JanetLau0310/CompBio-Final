@@ -1,0 +1,5 @@
+Description of methods used.How does this compare to your expectations for a protein-protein interaction network?
+
+- The unexpected thing I found is, the lenght of shortest path have too much 0, which I think it might be more reasonable to be less than len=1. But when I print all the column in y, I realized that there are many proteins do not connect with other proteins, it is because we only find the path between these 1000 nodes. Therefore, the graph with these 1000 nodes and their edges is disconnected.
+
+#The code in this part is from line 97 to 138 in final-2.py

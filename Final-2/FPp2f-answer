@@ -1,0 +1,7 @@
+How does what you found relate to the results of the previous question?
+
+- Since this graph is undirected and disconnected graph, which is related with question e, to count the diameter we need to know its connected components. But the result is, there are 204 components, and most of them is an individual node ( which menas diameter = 0 ), so the diam in this network is 8.
+
+- In other words, e and f are related.Firstly I build a new graph with random nodes and their pairwise edges in original graph G. Then we find out that this graph is disconnected, since we only care about the edges between these 1,000 nodes. 
+
+#The code in this part is from line 141 to 147 in final-2.py

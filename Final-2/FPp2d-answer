@@ -1,0 +1,5 @@
+How many 3-cliques are there in the PPI network? (Note that a node can belong to multiple 3-cliques.) 
+
+- The number of triangles in G is 354514, I use the existing methods in networkX, which is the nx.triangles(), but this method will count the triangle of every nodes in Graph G, so to get the percise result, we need to divide the result by 3.
+
+#The code in this part is from line 81 to 89 in final-2.py

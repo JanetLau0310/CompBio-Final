@@ -1,0 +1,6 @@
+Both YGR296W and YPL098C have 5 interacting partners; which one has the higher clustering coefficient?
+
+- The result of local cluster coefficient is YGR296W = 0.1 and YPL098C = 0.8, so the latter is higher.
+As the result shows, the difference between then is the Numerator, which means the number of triangles containing v. Consider that they have the same degree = 5, it means the interacting partners of YPL098C also interact with each other much more than YGR296W's partners.
+
+#The code in this part is from line 57 to 80 in final-2.py
