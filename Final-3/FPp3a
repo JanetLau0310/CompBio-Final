@@ -1,0 +1,3 @@
+I built this graph using the network package in python, put all the nodes and edges exsist in the file into the undirected graph. As the result shows, the nodes in graph is 5001, and the edges number is 76025
+The graph of yeast.ppi is shown as the "GraphView.png"
+I draw it with Matplotlib, and using the spectral layout model.
