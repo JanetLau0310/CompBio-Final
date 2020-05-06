@@ -2,11 +2,9 @@
 The prediction output files are list as follow:<br>
 FPp1-1NNoutput.txt<br>
 FPp1-3NNoutput.txt
-
 --------------------------
 FPp1d-predictions1<br>
 FPp1d-predictions3
-
 ---------------------------
 'find_k.png': An output image 
 ###  FPp1a-source.py file including all the code in this project
