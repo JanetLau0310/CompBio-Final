@@ -1,4 +1,7 @@
-Do you believe that this network fits the definition of scale-free? Why or why not?
-
-- I think this PPI Network is scale-free. As the degree sequence shows, there is one node whose degree can be 2950, but there are 142 nodes have degree=1, and 178 have degree = 2. I did some scaling work to my output image, without it the graph will shows really unbalanced.
-- The other image named "Degree_Distribution.png" is the unbalanced one without scaling.
+Which codons are under-represented? Can you explain why, for any of the codons on this list?
+TAA	21.0
+TGA	4.0
+TAG	4.0
+CGA	13.0
+TCG	1.0
+- 3b-rare: when obs <= exp, the 1-3 is the stop codon, which I only count once ( but as the output shows, many sequence did not reach their 'STOP' codon. The other 2 codon are also appear rare in couting sequences, so it means the exp only consider the prob result rather than the real function of codon. 

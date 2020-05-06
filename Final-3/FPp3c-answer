@@ -1,6 +1,5 @@
-Both YGR296W and YPL098C have 5 interacting partners; which one has the higher clustering coefficient?
+c: How much does the codon distribution change between sequences?
+Look at the standard deviation of codon counts for all codons across all sequences.
+Which is the codon with the largest standard deviation? What are the standard deviation and mean codon count for that codon? Do you think the sequences are mutating a lot, relative to your expectations?
 
-- The result of local cluster coefficient is YGR296W = 0.1 and YPL098C = 0.8, so the latter is higher.
-As the result shows, the difference between then is the Numerator, which means the number of triangles containing v. Consider that they have the same degree = 5, it means the interacting partners of YPL098C also interact with each other much more than YGR296W's partners.
-
-#The code in this part is from line 57 to 80 in final-2.py
+As my result in FPp3c-std.csv shows, the largest std dev is GGT, with STDEV = 0.4637 and the mean is 47.197. I got these result by excel, so you won't see my code in .py file. From my perspective, there seems to be little different in these s-protein sequences, which is not the same as my expection. But in some way, this is the specific coding sequence of s-protein, and consider the time this virus came out is really short, the mutations might not be so obvious.
