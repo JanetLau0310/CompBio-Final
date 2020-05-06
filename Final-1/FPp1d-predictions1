@@ -1,0 +1,32 @@
+PATIENT1	CurrentSmoker
+PATIENT2	CurrentSmoker
+PATIENT3	NeverSmoker
+PATIENT4	NeverSmoker
+PATIENT5	CurrentSmoker
+PATIENT6	CurrentSmoker
+PATIENT7	CurrentSmoker
+PATIENT8	NeverSmoker
+PATIENT9	CurrentSmoker
+PATIENT10	NeverSmoker
+PATIENT11	NeverSmoker
+PATIENT12	NeverSmoker
+PATIENT13	CurrentSmoker
+PATIENT14	NeverSmoker
+PATIENT15	NeverSmoker
+PATIENT16	CurrentSmoker
+PATIENT17	NeverSmoker
+PATIENT18	CurrentSmoker
+PATIENT19	NeverSmoker
+PATIENT20	CurrentSmoker
+PATIENT21	CurrentSmoker
+PATIENT22	NeverSmoker
+PATIENT23	NeverSmoker
+PATIENT24	NeverSmoker
+PATIENT25	CurrentSmoker
+PATIENT26	NeverSmoker
+PATIENT27	CurrentSmoker
+PATIENT28	NeverSmoker
+PATIENT29	NeverSmoker
+PATIENT30	NeverSmoker
+
+Accurancy list in 5-Fold:[0.33, 0.67, 0.50, 0.67, 0.67]

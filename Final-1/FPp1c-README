@@ -1,0 +1,2 @@
+I do this via the help of sklearn, and this part is shown in .py (src code)
+I find the accurancy in cross-validation is not good enough, they are around 0.6, which is kind of frustration. It might point out the poor performance in my code, or the unreasonable choice of k. 
