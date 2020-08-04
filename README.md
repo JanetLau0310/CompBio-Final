@@ -1,4 +1,4 @@
-# CompBio-Final
+# CompBio-Final-Project
 Gene expression analysis, PPI networks, and COVID-19 sequence data Codon Analysis.
 
 ## Project One: Classifying expression data.
